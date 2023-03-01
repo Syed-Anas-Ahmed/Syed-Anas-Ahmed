@@ -67,7 +67,7 @@ Apart from Coding 👨‍💻, I love to Travel ⛱️, Play Football ⚽, Go to
 <a href="https://www.linkedin.com/in/abdul-rafey-rizwan">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="[https://twitter.com/syed](https://twitter.com/syed_anas_ahmed)">
+<a href="https://twitter.com/syed_anas_ahmed">
   <img alt="Twitter" src="https://img.shields.io/badge/zaime_ali-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>
 
