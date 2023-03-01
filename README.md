@@ -1,4 +1,6 @@
-# Greeting, <img src="https://github.com/zaimeali/zaimeali/blob/main/coding.gif" alt="Coding Gif" width="48px" > <img src="https://github.com/zaimeali/zaimeali/blob/main/handwave.gif" alt="Hand Wave Gif" width="32px" >
+# Greeting,
+<img src="https://github.com/zaimeali/zaimeali/blob/main/coding.gif" alt="Coding Gif" width="48px" >
+<img src="https://github.com/zaimeali/zaimeali/blob/main/handwave.gif" alt="Hand Wave Gif" width="32px" >
 
 My name is Syed Anas Ahmed and I'm a Software Engineer 🎓💻. I'm from Pakistan <img src="https://github.com/zaimeali/zaimeali/blob/main/united-states.png" alt="US Flag Icon" width="18px" > and live in Karachi. I have 1 year of experience as a Software Engineer 💼.
 
@@ -27,7 +29,7 @@ Apart from Coding 👨‍💻, I love to Travel ⛱️, Play Football ⚽, Go to
 <img alt="Material UI" src="https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white"/>
 
 #### WordPress Technologies:
-<img alt="WooCommerce" src="https://github.com/Syed-Anas-Ahmed/me/blob/main/elementor-svgrepo-com.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
+<img alt="WooCommerce" src="https://github.com/Syed-Anas-Ahmed/me/blob/main/elementor-svgrepo-com.svg?style=for-the-badge&logo=WordPress&logoColor=white" width="32px"/>
 <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
