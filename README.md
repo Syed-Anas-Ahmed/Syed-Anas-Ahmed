@@ -1,6 +1,6 @@
 # Greetings, <img src="https://github.com/zaimeali/zaimeali/blob/main/coding.gif" alt="Coding Gif" width="48px" ><img src="https://github.com/zaimeali/zaimeali/blob/main/handwave.gif" alt="Hand Wave Gif" width="32px" >
 
-My name is Syed Anas Ahmed and I'm a Software Engineer 🎓💻. I'm from Pakistan 🇵🇰 <img src="https://raw.githubusercontent.com/Syed-Anas-Ahmed/me/main/flag-symbolism-Pakistan-design-Islamic.webp" alt="US Flag Icon" width="18px" > and live in Karachi. I have 1 year of experience as a Software Engineer 💼.
+My name is Syed Anas Ahmed and I'm a Software Engineer 🎓💻. I'm from Pakistan <img src="https://raw.githubusercontent.com/Syed-Anas-Ahmed/me/main/flag-symbolism-Pakistan-design-Islamic.webp" alt="US Flag Icon" width="18px" > and live in Karachi. I have 1 year of experience as a Software Engineer 💼.
 
 You can find me on [<img src="https://github.com/zaimeali/zaimeali/blob/main/linkedin-logo.png" alt="Linkedin Icon" width="15px" >](https://www.linkedin.com/in/syed-anas-ahmed-381849250/).
 
