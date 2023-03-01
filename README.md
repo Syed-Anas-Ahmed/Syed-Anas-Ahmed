@@ -49,7 +49,7 @@ Apart from Coding 👨‍💻, I love to Travel ⛱️, Play Football ⚽, Go to
 <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
  
 
-## 👨👩 You can connect with me on:
+## 👨 You can connect with me on:
 <a href="mailto:syedanasahmed@protonmail.com">
   <img alt="Gmail" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
 </a>
@@ -62,9 +62,7 @@ Apart from Coding 👨‍💻, I love to Travel ⛱️, Play Football ⚽, Go to
 
 
 
-<!--
-**zaimeali/zaimeali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!-- ajeeb
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
