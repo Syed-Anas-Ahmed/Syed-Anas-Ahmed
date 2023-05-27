@@ -6,7 +6,8 @@ My name is Syed Anas Ahmed and I'm a Software Engineer 🎓💻. I'm from Pakist
 
 Apart from Coding 👨‍💻, I love to Travel ⛱️, Play Football ⚽, Go to the Gym 🏋🏻, and love to play Video Games 🎮.
 
-Also,<img alt="" src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white"/><img alt="" src=""/><img alt="HTML5" src="https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=AniList&logoColor=white"/>
+Also,
+<img alt="" src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white"/><img alt="" src=""/><img alt="HTML5" src="https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=AniList&logoColor=white"/>
 
 
 ## 🧰 Technologies & Tools
