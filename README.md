@@ -1,6 +1,6 @@
 # Greetings,
 
-My name is Syed Anas Ahmed and I'm a Software Engineer 🎓💻. I'm from Pakistan <img src="https://raw.githubusercontent.com/Syed-Anas-Ahmed/me/main/flag-symbolism-Pakistan-design-Islamic.webp" alt="US Flag Icon" width="18px" > and live in Karachi. I have 1.5 years of experience as a Software Engineer 💼.
+My name is Syed Anas Ahmed and I'm a Software Engineer 🎓💻. I'm from Pakistan <img src="https://raw.githubusercontent.com/Syed-Anas-Ahmed/me/main/flag-symbolism-Pakistan-design-Islamic.webp" alt="US Flag Icon" width="18px" > and live in Karachi. I have 3 years of experience as a Software Engineer 💼.
 
 ## ⚙️ Activities
 
